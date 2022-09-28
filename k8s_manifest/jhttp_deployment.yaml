@@ -17,7 +17,6 @@ metadata:
    - port: 80
    selector:
      app: jhttp
----
 apiVersion: apps/v1
 kind: Deployment
 metadata:
